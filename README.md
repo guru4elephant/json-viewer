@@ -35,7 +35,7 @@ python3 setup.py install
 ## Usage
 
 ```bash
-jv path/to/your/file.jsonl
+jv sample.jsonl
 ```
 
 ### Key Bindings
